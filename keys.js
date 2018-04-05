@@ -13,5 +13,5 @@ exports.spotify = {
 };
 
 exports.ombd = {
-  key: '99210654'
+  key: process.env.OMBD_API
 };
